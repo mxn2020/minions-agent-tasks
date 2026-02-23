@@ -1,6 +1,12 @@
 ---
 name: minions-agent-tasks
-description: gh agent-task prompts, execution tracking, PR references, and review status
+id: OC-0101
+version: 1.0.0
+description: "gh agent-task prompts, execution tracking, PR references, and review status"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-agent-tasks — Agent Skills
