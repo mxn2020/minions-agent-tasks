@@ -1,0 +1,1 @@
+# @minions-agent-tasks/web\n\nStandard compliance definition for @minions-agent-tasks/web\n\n![CI](https://github.com/mxn2020/@minions-agent-tasks/web/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)\n

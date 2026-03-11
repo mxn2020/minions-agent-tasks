@@ -1,0 +1,15 @@
+name: minions-agent-tasks-workspace
+project_scope: main
+project_type: monorepo
+description: "gh agent-task prompts, execution tracking, PR references, and review status"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-agent-tasks"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, agent, tasks]
+notes: null
+id: 4f8611a8-3ab6-4c1e-8b8f-dedb153b6ed8

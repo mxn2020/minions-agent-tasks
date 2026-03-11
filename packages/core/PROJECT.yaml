@@ -1,0 +1,8 @@
+name: "@minions-agent-tasks/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-agent-tasks-workspace
+description: "gh agent-task prompts, execution tracking, PR references, and review status"
+priority: high
+deploy_url: null
+tags: null

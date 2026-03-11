@@ -1,0 +1,8 @@
+name: "@minions-agent-tasks/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-agent-tasks-workspace
+description: "CLI for minions-agent-tasks — gh agent-task prompts, execution tracking, PR references, and review status"
+priority: high
+deploy_url: null
+tags: null
