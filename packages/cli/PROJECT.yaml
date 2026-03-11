@@ -6,3 +6,4 @@ description: "CLI for minions-agent-tasks — gh agent-task prompts, execution t
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox

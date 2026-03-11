@@ -6,3 +6,4 @@ description: "gh agent-task prompts, execution tracking, PR references, and revi
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
