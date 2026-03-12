@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.2.0](https://github.com/mxn2020/minions-agent-tasks/compare/v0.1.0...v0.2.0) (2026-03-12)
+
+
+### Features
+
+* enrich SKILLS metadata and registry sync ([819cbb1](https://github.com/mxn2020/minions-agent-tasks/commit/819cbb1e75b171db2f2bc28ff79c3d4decd641b4))
+
+
+### Bug Fixes
+
+* website UI tweaks and add OSS configuration ([00970e3](https://github.com/mxn2020/minions-agent-tasks/commit/00970e3bf4c9dc56704760f50157212b3b9e08c1))
+
+
+### Miscellaneous
+
+* add .project/ identity files (PROJECT, ACCOUNT, ROADMAP, IDEAS) ([d3501b6](https://github.com/mxn2020/minions-agent-tasks/commit/d3501b6cc9d3329623f00d8ff897f0bf072b1b7c))
+* bump minions-sdk to v0.2.3 and fix TS ([9bf2548](https://github.com/mxn2020/minions-agent-tasks/commit/9bf25484831d7a4122dfbf3a8296899b7a957d78))
+* compliance audit - fix category, tags, and add stop script ([f96bcda](https://github.com/mxn2020/minions-agent-tasks/commit/f96bcda8461bc6ddc8a14fee7c7ce4211385d88a))
+* fix nested sub-project categories to valid compliance values ([af419c9](https://github.com/mxn2020/minions-agent-tasks/commit/af419c9d7decf86fa15060c6b52fefc077b424b9))
+
 ## [0.1.0] - 2026
 
 ### Features
